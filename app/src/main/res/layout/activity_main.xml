@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/GridLayout1"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:columnCount="4"
+    android:rowCount="3"
+    android:orientation="horizontal"
+    tools:context=".GridLayoutActivity">
+
+    <TextView
+        android:id="@+id/button1"
+        android:padding="30dp"
+        android:text="A"
+        android:textSize="20dp" />
+    <TextView
+        android:id="@+id/button2"
+        android:padding="30dp"
+        android:text="B"
+        android:textSize="20dp"/>
+    <TextView
+        android:id="@+id/button3"
+        android:padding="30dp"
+        android:text="C"
+        android:textSize="20dp"/>
+    <TextView
+        android:id="@+id/button4"
+        android:padding="30dp"
+        android:text="D"
+        android:textSize="20dp"/>
+    <TextView
+        android:id="@+id/button5"
+        android:padding="30dp"
+        android:text="E"
+        android:textSize="20dp" />
+    <TextView
+        android:id="@+id/button6"
+        android:padding="30dp"
+        android:text="F"
+        android:textSize="20dp"/>
+    <TextView
+        android:id="@+id/button7"
+        android:padding="30dp"
+        android:text="G"
+        android:textSize="20dp"/>
+    <TextView
+        android:id="@+id/button8"
+        android:padding="30dp"
+        android:text="H"
+        android:textSize="20dp"/>
+    <TextView
+        android:id="@+id/button9"
+        android:padding="30dp"
+        android:text="I"
+        android:textSize="20dp" />
+    <TextView
+        android:id="@+id/button10"
+        android:padding="30dp"
+        android:text="J"
+        android:textSize="20dp"/>
+    <TextView
+        android:id="@+id/button11"
+        android:padding="30dp"
+        android:text="K"
+        android:textSize="20dp"/>
+    <TextView
+        android:id="@+id/button12"
+        android:padding="30dp"
+        android:text="L"
+        android:textSize="20dp"/>
+
+
+</GridLayout>
